@@ -8,7 +8,7 @@ This is what the webpage shows:
 
 
 
-By changing the ID parameter of the url link from http://10.10.32.29/note.php?note_id=1 to http://10.10.32.29/note.php?note_id=0, i was taken to another notepad that shows:
+By changing the ID parameter of the url link from http: //10.10.32.29/note.php?note_id=1 to http: //10.10.32.29/note.php?note_id=0, i was taken to another notepad that shows:
 
 ![alt text](4_Task5_ID0.png)
 
